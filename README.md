@@ -10,9 +10,9 @@ Simple GIF searching app
 
 ## Installation
 
-Clone the repository: https://
-Install dependencies
-Run the app
+- Clone the repository: [https://github.com/udensbalts/gif-search-app]
+- Install dependencies
+- Run the app
 
 ## Whats used to make this app
 
